@@ -12,7 +12,7 @@ spec:
 apiVersion: v1
 kind: Pod
 metadata:
-  name: nginx
+  name: checkendpoint
 spec:
   containers:
   - name: nginx
